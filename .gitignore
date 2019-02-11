@@ -1,0 +1,26 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea/
+.dubbo/
+.mvn/
+mvnw
+mvnw.cmd
+**.iws
+**.iml
+**.ipr
+**/.dubbo/**
+**/.idea/**
+**.iml
+**/target/**
+**/classes/**
+**/.bin/**
